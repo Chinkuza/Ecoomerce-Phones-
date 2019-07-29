@@ -12,7 +12,7 @@ Site should validate for HTML & CSS validity as well as WCAG 2.0 AA web accessib
 
 **JavaScript:**
     - Implement a form validation for the contact form
-    - Implement a jQuery slider for the home page.
+    
 
 **The project will be assessed on the following criteria:**
     - CSS validation & usage. Use of media query
